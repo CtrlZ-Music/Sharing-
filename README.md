@@ -1,2 +1,3 @@
 # Sharing-
-sharing tools 
+sharing tools for musician & others one :)
+
