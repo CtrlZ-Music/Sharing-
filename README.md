@@ -15,4 +15,11 @@ If you have any suggestion send me a message :)
 
 Peace 
 
-CZ
+Ctrl-Z
+
+
+Update 180220 : 
+* add Type : webzine, tourneur, label, Radio, Club
+* new request order by date_relance
+* tabulation for MainForm is ok ! 
+                
