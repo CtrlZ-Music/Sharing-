@@ -18,8 +18,9 @@ Peace
 Ctrl-Z
 
 
-Update 180220 : 
+Update Booking 180220 : 
 * add Type : webzine, tourneur, label, Radio, Club
 * new request order by date_relance
 * tabulation for MainForm is ok ! 
                 
+Update Calc BPM To V5 
