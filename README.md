@@ -1,5 +1,5 @@
 # Sharing-
-sharing free tools for musician & others one :)
+sharing free tools for musician & others one
 
 Follow Me :
 
@@ -17,6 +17,9 @@ Peace
 
 Ctrl-Z
 
+Update Booking 190415 :
+* New Booking Form
+* Added information
 
 Update Booking 180220 : 
 * add Type : webzine, tourneur, label, Radio, Club
