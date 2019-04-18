@@ -1,7 +1,7 @@
 # Sharing-
 sharing free tools for musician & others one
 
-Follow Me :
+Place you can find me :
 
 // http://twitter.com/Ctrl_Z_Music
 // http://www.facebook.com/ctrlzmusic/
